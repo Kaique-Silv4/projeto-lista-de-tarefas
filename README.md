@@ -13,12 +13,6 @@
 
 ---
 
-## 🖼 Demonstração
-
-![Preview do Projeto](https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPOSITORIO/main/imagens/preview.png)
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 <div align="center">
@@ -34,3 +28,4 @@
 1. **Clone o repositório**  
    ```bash
    git clone https://github.com/Kaique-Silv4/projeto-lista-de-tarefas.git
+2. Abra o arquivo index.html no navegador
